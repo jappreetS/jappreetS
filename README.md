@@ -13,19 +13,12 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
----
 
 ### :technologist: About Me :
 
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :telescope: I’m working as a Web Development Engineer and contributing to Frontend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I read about Personal Finance and Investing
 
@@ -49,7 +42,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
-### :fire: My Stats :
+### :bar_chart: Github Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jappreetS&theme=dark)](https://git.io/streak-stats)
 
